@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Of_Tweets
+This project is an attempt to solve the problem of text classification on twitter text datasets. The task is to predict whether a tweet is racist/sexist or not. The data has been downloaded from Analytics Vidhya [https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)
